@@ -7,9 +7,16 @@ to run
 
 
 
+**Dependencies**
+```
 
 
+pip install -qq langchain  llama-index cohere llama-cpp-python
 
+pip -q install streamlit
+
+pip install llama-index-llms-llama-cpp llama-index-embeddings-huggingface  
+```
 
 
 
